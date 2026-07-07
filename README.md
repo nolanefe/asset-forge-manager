@@ -1,22 +1,22 @@
 # AssetForge Manager
 
-Modern ve hızlı bir Dijital Varlık Yönetim (CRUD) paneli. React, Tailwind CSS ve LocalStorage kullanılarak, durum takibi ve kalıcı veri yönetimi sağlamak amacıyla geliştirilmiştir. Eğitim ve portfolyo projesi kapsamında modern web teknolojileri (Vite, React Hooks) kullanılarak inşa edilmiştir.
+A modern and fast Digital Asset Management (CRUD) dashboard. Developed using React, Tailwind CSS, and LocalStorage to provide seamless state tracking and persistent data management. Built with modern web technologies (Vite, React Hooks) as part of a portfolio project.
 
-## Özellikler
+## Features
 
-* **Tam CRUD Desteği:** Dijital varlıklar için ekleme, listeleme, durum güncelleme ve silme işlemleri.
-* **Kalıcı Veri:** `LocalStorage` entegrasyonu ile veriler tarayıcıda güvenle tutulur.
-* **Karanlık Tema:** Tailwind CSS ile hazırlanmış, UI/UX odaklı modern ve duyarlı (responsive) tasarım.
+* **Full CRUD Support:** Create, read, update status, and delete operations for digital assets.
+* **Persistent Data:** Data is safely stored in the browser through `LocalStorage` integration.
+* **Dark Theme:** A UI/UX-focused, modern, and responsive design crafted with Tailwind CSS.
 
-## Teknolojiler
+## Technologies
 
 * **Frontend:** React.js, Vite
-* **Stil:** Tailwind CSS
-* **Veri Yönetimi:** React State & LocalStorage
+* **Styling:** Tailwind CSS
+* **Data Management:** React State & LocalStorage
 
-## Kurulum
+## Installation
 
-Projeyi bilgisayarınızda çalıştırmak için aşağıdaki komutları sırasıyla terminalde çalıştırın:
+To run the project locally on your computer, execute the following commands in your terminal in order:
 
 ```bash
 npm install
