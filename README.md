@@ -1,6 +1,6 @@
 # AssetForge Manager
 
-**AssetForge Manager** is a responsive web dashboard designed for tracking and managing digital assets. Built with React and Tailwind CSS, it provides full CRUD functionality and utilizes LocalStorage for persistent data management without requiring a backend database. 
+**AssetForge Manager** simplifies digital asset organization through a client-side interface. Built with React and Tailwind CSS, it provides full CRUD functionality and utilizes LocalStorage for persistent data management without requiring a backend database.
 
 This project focuses on structured state management, component reusability, and modern frontend development practices using Vite.
 
